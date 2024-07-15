@@ -1,8 +1,8 @@
 public class stars {
     public static void main(String[] args) {
-        int n=5;
+        int n = 5;
 //upper part
-        for(int i=1; i<=n; i++) {
+        for (int i=1; i<=n; i++) {
             for(int j=1; j<=i; j++) {
                 System.out.print("*");
             }
@@ -34,3 +34,4 @@ public class stars {
 
     }
 }
+
